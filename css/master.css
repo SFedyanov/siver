@@ -1,4 +1,16 @@
 body{
   background-color: #A2B3C4;
   font-family: arial;
+  margin: 0px;
+}
+
+p{
+  background-color: #89642D;
+  margin: 0px;
+}
+
+.container{
+  margin: 0px;
+  --padding: 10px;
+  background-color: #5E7389;
 }
